@@ -2,6 +2,7 @@
 #include<linux/fs.h> 
 #include<linux/cdev.h>
 #include<linux/device.h> 
+#include<linux/uaccess.h> 
 
 MODULE_AUTHOR("Ryuichi Ueda");
 MODULE_DESCRIPTION("driver for LED control"); 
