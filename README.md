@@ -12,7 +12,7 @@ leads
 Breadboard  
 
 # procedure
-After setting the LED etc. on the Raspberry Pi 4, enter the following command.    　　
+After setting the LED etc. on the Raspberry Pi 4, enter the following command.  
 sudo insmod myled.ko    
 sudo rmmod myled  
 sudo insmod myled.ko    
