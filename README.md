@@ -13,10 +13,10 @@ Breadboard
 
 # procedure
 After setting the LED etc. on the Raspberry Pi 4, enter the following command.  
-sudo insmod myled.ko    
-sudo rmmod myled  
-sudo insmod myled.ko    
-sudo chmod 666 /dev/myled0   
-echo 1 > /dev/myled0    
-echo 0 > /dev/myled0    
+$ sudo insmod myled.ko    
+$ sudo rmmod myled  
+$ sudo insmod myled.ko    
+$ sudo chmod 666 /dev/myled0   
+$ echo 1 > /dev/myled0    
+$ echo 0 > /dev/myled0    
 
