@@ -8,7 +8,7 @@ Source code for lighting LEDs with Raspberry Pi 4.
 Raspberry Pi 4
 
 # Preparation
-LED
-resistance
-Conductor
-Breadboard
+LED  
+resistance  
+Conductor  
+Breadboard  
