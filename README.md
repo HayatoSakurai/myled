@@ -1,7 +1,5 @@
-# myled
-This is a myled repository
-
 # Overview
+This is a myled repository.  
 Source code for lighting LEDs with Raspberry Pi 4.
 
 # Equipment used
