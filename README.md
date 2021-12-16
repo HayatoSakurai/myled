@@ -7,7 +7,7 @@ Raspberry Pi 4
 
 # Preparation
 LEDs  
-resistors
+resistors  
 leads  
 Breadboard  
 
