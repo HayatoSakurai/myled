@@ -3,7 +3,10 @@ This is a myled repository.
 Source code for lighting LEDs with Raspberry Pi 4.
 
 # usage environment
-Raspberry Pi 4 (ubuntu20.04)
+ubuntu20.04
+
+# usage device
+Raspberry Pie 4
 
 # Preparation
 LED  
